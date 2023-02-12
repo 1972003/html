@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> first task</title>
+    </head>
+     <body>
+        <h1><MARK>pinterest</MARK></h1>
+        <h2>mobile application</h2>
+        <img src="OIP.jpg"><hr>
+        <p> <b>pinterest is an American image sharing and social media service<br> designed to enable saving and discovery of information (specifically "ideas") on the internet using images, and on a smaller scale, animated GIFs and videos, in the form of pinboards.</b></p>
+        <a href="https://en.wikipedia.org/wiki/Pinterest#:~:text=%EE%80%80Pinterest%EE%80%81%20is%20an%20image%20sharing%20and%20social%20media,global%20monthly%20active%20users%20as%20of%20February%202022."target="_blank">for more information</a>
+        <ul><b><mark>pinterest contains:</mark></b>
+            <li>beauty section</li>
+            <li>architecture section</li>
+            <li>design section</li>
+            <li>others</li>
+            <br><a href="https://www.pinterest.com/ideas/"target="_blank">pinterest</a>
+        </ul>
+    </body>
+
+</html>
